@@ -1,0 +1,1 @@
+#it is a set of instructions or statements to do a particular task , to reduce the lines of code
